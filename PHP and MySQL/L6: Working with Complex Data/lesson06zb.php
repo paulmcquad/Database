@@ -1,0 +1,1 @@
+<p>You entered <?php echo $_COOKIE["username"] ?> as the User Name and <?php echo $_COOKIE["password"] ?> as the Password.</p>
